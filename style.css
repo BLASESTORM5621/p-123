@@ -1,0 +1,17 @@
+#footer{
+    font-size: 25px;
+    background-color: aqua;
+    color:black;
+    position:fixed;
+    bottom:0;
+    width: 100%;
+    text-shadow: 5px 6px 2px yellow;
+    text-align: center;
+}
+canvas{
+    border : 5px solid aqua;
+}
+
+body{
+    background-image:url("123.png")
+}
